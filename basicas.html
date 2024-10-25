@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botones con CSS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        .boton {
+            background-color: #007BFF; /* Color de fondo */
+            color: white; /* Color del texto */
+            padding: 15px 30px; /* Espaciado interno */
+            border: none; /* Sin borde */
+            border-radius: 5px; /* Bordes redondeados */
+            font-size: 16px; /* Tamaño de fuente */
+            cursor: pointer; /* Cambia el cursor al pasar por encima */
+            transition: background-color 0.3s; /* Efecto de transición */
+        }
+
+        .boton:hover {
+            background-color: #0056b3; /* Color al pasar el cursor */
+        }
+
+        .boton:active {
+            background-color: #004085; /* Color al hacer clic */
+        }
+    </style>
+</head>
+<body>
+
+    <button class="boton">pantalla pricipal </button>
+    <button class="boton">tutoriales basicos</button>
+    
+</body>
+</html>

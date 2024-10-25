@@ -1,0 +1,98 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color:white;
+}
+.contenedor1 {
+    display: flex;
+  }
+  .column1{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    width: 0px;
+    height: 200px;
+    background-color:#069858 ;
+  }
+
+  .column2{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    width: 0px;
+    height: 200px;
+    background-color:#069858 ;
+  }
+
+  .column3{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    width: 0px;
+    height: 200px;
+    background-color:#069858 ;
+  }
+
+  .contenedor2 {
+    display: flex;
+  }
+
+  .column4{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    width: 0px;
+    height: 200px;
+    background-color:#069858 ;
+  }
+
+  .column5{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    width: 0px;
+    height: 200px;
+    background-color:#069858 ;
+  }
+
+  .column6{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    width: 0px;
+    height: 200px;
+    background-color:#069858 ;
+  }
+
+  .contenedor3 {
+    display: flex;
+  }
+
+  .column7{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    width: 0px;
+    height: 200px;
+    background-color:#069858 ;
+  }
+
+  .column8{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    width: 0px;
+    height: 200px;
+    background-color:#069858 ;
+  }
+
+  .column9{
+    flex: 1;
+    margin: 5px;
+    padding: 10px;
+    width: 0px;
+    height: 200px;
+    background-color:#069858 ;
+  }
